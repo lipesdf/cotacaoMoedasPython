@@ -26,7 +26,7 @@ O sistema de cotação de moedas é uma aplicação desenvolvida em Python utili
 
 ## Observações
 
-- **Formato do Arquivo Excel:** É importante manter o padrão do arquivo Excel a ser importado, com as moedas listadas na primeira coluna da tabela.
+- **Formato do Arquivo Excel:** É importante manter o padrão do arquivo Excel a ser importado, com as moedas listadas na primeira coluna da tabela, segue exemplo o arquivo `moedas.xlsx`.
 - **Dependências:** Certifique-se de que as bibliotecas `pandas`, `openpyxl`, `tkinter`, `numpy`, `datetime` e `requests` estejam instaladas no ambiente Python utilizado.
 
 ## Benefícios
