@@ -1,4 +1,4 @@
-# Cotação de moedas | API | Tkinter | Python
+# Cotação de moedas | API | Python - Tkinter
 <div>
 <h3>Cotação de moedas</h3> 
 <p></p>Sistema de cotação de moedas consumindo um microserviço ( API ) gratuito da awesome api.<p/>
